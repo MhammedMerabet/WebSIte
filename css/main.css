@@ -1,0 +1,78 @@
+html{
+    font-size: 100%;
+}
+
+*{
+    margin: 0.2rem 0.1rem;
+    padding: 0rem;
+}
+
+h1{
+    font-size: 1.8rem;
+}
+
+h4{
+    font-size: 1.4rem;
+}
+
+body{
+    background: #f2f2f2;
+}
+
+.personal-information{
+    text-align: left;
+}
+
+
+.form-section{
+    position: absolute;
+    bottom: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+button{
+    margin: 0.1rem;
+    padding: 0.1rem 1rem;
+    position: absolute;
+    border: none;
+}
+
+button:focus{
+    background-color: dimgray;
+}
+
+button:hover{
+    background-color: gray;
+}
+
+.clear{
+    clear: both;
+}
+
+nav{
+    background-color: #1d1f2e;
+    color: White;
+    padding: 0.1rem;
+}
+
+nav h1{
+    float: left;
+}
+
+nav ul{
+    float: right;
+    list-style: none;
+}
+
+nav li{
+    float: left;
+    margin: 0.5rem 0.7rem;
+}
+
+.hero-section{
+    
+}
